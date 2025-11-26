@@ -84,10 +84,19 @@
 
 ## Top Open Source Projects
 
+All of these projects are fully open source. Feel free to explore, contribute, or use them!  
+
 [![GitHub Summary Report](https://github.com/ZizhaoZheng-Charlie/githubsummary) 🔗](https://github.com/ZizhaoZheng-Charlie)
-- ![Used Car Dealership Web](https://github.com/ZizhaoZheng-Charlie/Used-CarDealership-web) [Used Car Dealership Web 🔗](https://github.com/ZizhaoZheng-Charlie/Used-CarDealership-web)  
-- ![MTG Commander Builder](https://github.com/ZizhaoZheng-Charlie/mtg-commander-builder) [MTG Commander Builder 🔗](https://github.com/ZizhaoZheng-Charlie/mtg-commander-builder)  
-- ![Terminal Style UI Showcase](https://github.com/ZizhaoZheng-Charlie/Terminal-Style-Ui-Showcase) [Terminal Style UI Showcase 🔗](https://github.com/ZizhaoZheng-Charlie/Terminal-Style-Ui-Showcase)  
+**GitHub Summary report** - Tracks and visualizes your GitHub activity, including commit messages and pull request messages, providing an overview of contributions over time.
+
+[![Used Car Dealership Web](https://github.com/ZizhaoZheng-Charlie/Used-CarDealership-web) 🔗](https://github.com/ZizhaoZheng-Charlie/Used-CarDealership-web)  
+**Used Car Dealership Web** – Open source web app for managing used car dealerships, including inventory and sales features.
+
+[![MTG Commander Builder](https://github.com/ZizhaoZheng-Charlie/mtg-commander-builder) 🔗](https://github.com/ZizhaoZheng-Charlie/mtg-commander-builder)  
+**MTG Commander Builder** – Open source tool to help Magic: The Gathering players build and manage Commander decks.
+
+[![Terminal Style UI Showcase](https://github.com/ZizhaoZheng-Charlie/Terminal-Style-Ui-Showcase) 🔗](https://github.com/ZizhaoZheng-Charlie/Terminal-Style-Ui-Showcase)  
+**Terminal Style UI Showcase** – Open source collection of terminal-style UIs demonstrating creative CLI designs.
 
 
 <p align="left">
