@@ -80,6 +80,7 @@
 ![Gemini](https://img.shields.io/badge/Gemini-0044BB?style=for-the-badge&logo=google&logoColor=4285F4)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-42A587?style=for-the-badge&logo=openai&logoColor=white)
 ![API](https://img.shields.io/badge/API-F68C32?style=for-the-badge&logo=web-standards&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 <br/>
 
 ## Top Open Source Projects
