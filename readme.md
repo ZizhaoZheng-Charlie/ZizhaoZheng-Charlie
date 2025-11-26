@@ -97,12 +97,12 @@ All of these projects are fully open source. Feel free to explore, contribute, o
 [![MTG Commander Builder](https://github.com/ZizhaoZheng-Charlie/mtg-commander-builder) 🔗](https://github.com/ZizhaoZheng-Charlie/mtg-commander-builder)  
 **MTG Commander Builder** – Open source tool to help Magic: The Gathering players build and manage Commander decks.
 
-[![Terminal Style UI Showcase](https://github.com/ZizhaoZheng-Charlie/Terminal-Style-Ui-Showcase) 🔗](https://github.com/ZizhaoZheng-Charlie/Terminal-Style-Ui-Showcase)  
+[![Terminal Style UI Showcase](https://github.com/ZizhaoZheng-Charlie/Terminal-Style-Ui-Showcase) ](https://github.com/ZizhaoZheng-Charlie/Terminal-Style-Ui-Showcase)  
 **Terminal Style UI Showcase** – Open source collection of terminal-style UIs demonstrating creative CLI designs.
 
 🌐 Live Site: [Terminal Style UI](https://terminal-style-ui-showcase.vercel.app/)
 
-[![Food Recipe Website](https://img.shields.io/badge/Food%20Recipe%20Website-FF6A3D?style=for-the-badge&logo=vercel&logoColor=white) 🔗](https://github.com/ZizhaoZheng-Charlie/Food-recipe-Website)  
+[![Food Recipe Website](https://github.com/ZizhaoZheng-Charlie/Food-recipe-Website)](https://github.com/ZizhaoZheng-Charlie/Food-recipe-Website)  
 **Food Recipe Website** – A clean, modern recipe browsing app with search, filtering, and detailed ingredient pages. Built to showcase UI design, performance, and frontend best practices.  
 
 🌐 Live Site: [Food Recipe Website](https://food-recipe-website-peach.vercel.app/)  
