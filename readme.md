@@ -44,7 +44,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: Zizhaozheng87@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/ZizhaoZheng-Charlie/issues)
 
 </p>
@@ -84,10 +84,11 @@
 
 ## Top Open Source Projects
 
-![GitHub Summary Report](https://github.com/ZizhaoZheng-Charlie/githubsummary)
-![Used Car Dealership Web](https://github.com/ZizhaoZheng-Charlie/Used-CarDealership-web) 
-![MTG Commander Builder](https://github.com/ZizhaoZheng-Charlie/mtg-commander-builder) 
-![Terminal Style UI Showcase](https://github.com/ZizhaoZheng-Charlie/Terminal-Style-Ui-Showcase)
+[![GitHub Summary Report](https://github.com/ZizhaoZheng-Charlie/githubsummary) 🔗](https://github.com/ZizhaoZheng-Charlie)
+- ![Used Car Dealership Web](https://github.com/ZizhaoZheng-Charlie/Used-CarDealership-web) [Used Car Dealership Web 🔗](https://github.com/ZizhaoZheng-Charlie/Used-CarDealership-web)  
+- ![MTG Commander Builder](https://github.com/ZizhaoZheng-Charlie/mtg-commander-builder) [MTG Commander Builder 🔗](https://github.com/ZizhaoZheng-Charlie/mtg-commander-builder)  
+- ![Terminal Style UI Showcase](https://github.com/ZizhaoZheng-Charlie/Terminal-Style-Ui-Showcase) [Terminal Style UI Showcase 🔗](https://github.com/ZizhaoZheng-Charlie/Terminal-Style-Ui-Showcase)  
+
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
