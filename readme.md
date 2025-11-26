@@ -101,6 +101,7 @@ All of these projects are fully open source. Feel free to explore, contribute, o
 **Terminal Style UI Showcase** – Open source collection of terminal-style UIs demonstrating creative CLI designs.
 
 🌐 Live Site: [Terminal Style UI](https://terminal-style-ui-showcase.vercel.app/)
+
 [![Food Recipe Website](https://img.shields.io/badge/Food%20Recipe%20Website-FF6A3D?style=for-the-badge&logo=vercel&logoColor=white) 🔗](https://food-recipe-website-peach.vercel.app/)  
 **Food Recipe Website** – A clean, modern recipe browsing app with search, filtering, and detailed ingredient pages. Built to showcase UI design, performance, and frontend best practices.  
 
