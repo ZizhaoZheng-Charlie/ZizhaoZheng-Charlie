@@ -89,7 +89,7 @@
 
 All of these projects are fully open source. Feel free to explore, contribute, or use them!  
 
-[![GitHub Summary Report](https://github.com/ZizhaoZheng-Charlie/githubsummary) 🔗](https://github.com/ZizhaoZheng-Charlie)
+[![GitHub Summary Report](https://github.com/ZizhaoZheng-Charlie/githubsummary) 🔗](https://github.com/ZizhaoZheng-Charlie/githubsummary)
 **GitHub Summary report** - Tracks and visualizes your GitHub activity, including commit messages and pull request messages, providing an overview of contributions over time.
 
 [![Used Car Dealership Web](https://github.com/ZizhaoZheng-Charlie/Used-CarDealership-web) 🔗](https://github.com/ZizhaoZheng-Charlie/Used-CarDealership-web)  
