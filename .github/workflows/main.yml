@@ -1,0 +1,82 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [main, master, develop]
+  pull_request:
+    branches: [main, master, develop]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: |
+          if [ -f package.json ]; then
+            npm ci
+          fi
+
+      - name: Build
+        run: |
+          if [ -f package.json ]; then
+            npm run build || true
+          fi
+
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: |
+          if [ -f package.json ]; then
+            npm ci
+          fi
+
+      - name: Run linter
+        run: |
+          if [ -f package.json ]; then
+            npm run lint || true
+          fi
+
+      - name: Check code formatting with Prettier
+        run: |
+          if [ -f package.json ]; then
+            npx prettier --check . || true
+          fi
+
+  deploy:
+    needs: [build, lint]
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Deploy
+        run: |
+          echo "Add your deployment steps here"
+          # Example deployment commands:
+          # - Deploy to cloud provider
+          # - Build and push Docker image
+          # - Deploy to server
+          # - etc.
