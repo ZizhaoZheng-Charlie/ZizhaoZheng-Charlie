@@ -60,7 +60,7 @@ jobs:
       - name: Check code formatting with Prettier
         run: |
           if [ -f package.json ]; then
-            npx prettier --check . || true
+            npx prettier --check . --ignore-path .prettierignore || true
           fi
 
   deploy:
