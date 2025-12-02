@@ -111,6 +111,11 @@ All of these projects are fully open source. Feel free to explore, contribute, o
 [![Charlie Code Reviewer](https://github.com/ZizhaoZheng-Charlie/charliecodereviewer)](https://github.com/ZizhaoZheng-Charlie/charliecodereviewer)  
 **Charlie Code Reviewer** - An open-source GitHub code reviewer bot built from scratch. It analyzes pull requests, adds automated review comments, and integrates with GitHub Apps + webhooks to provide intelligent, automated code feedback.
 
+[![Mina Companion](https://github.com/ZizhaoZheng-Charlie/Mina-companion)](https://github.com/ZizhaoZheng-Charlie/Mina-companion)  
+**Mina Companion** - a fine‑tuned conversational AI built on the 7‑billion‑parameter Mistral‑7B‑v0.3 foundation. The fine‑tuning adapts the base model to function as a virtual companion — capable of emotionally intelligent, context‑aware conversations. Mina‑companion aims to provide supportive, human‑like social interaction, going beyond standard Q&A by emphasizing empathy, emotional responsiveness, and sustained dialogue.
+
+HuggingFace website: [Mina Companion](https://huggingface.co/ZZZHENGG/mina-companion)
+
 <p align="left">
   <a href="https://github.com/ZizhaoZheng-Charlie?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
