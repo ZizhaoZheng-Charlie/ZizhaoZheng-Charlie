@@ -15,7 +15,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://portfolio-website-rho-ten-76.vercel.app/">Zizhao(Charlie) Zheng</a></b>
+                <b><a target="_blank" href="https://portfolio-website-zizhao-zheng.vercel.app/">Zizhao(Charlie) Zheng</a></b>
         </samp>
 </h3>
 
